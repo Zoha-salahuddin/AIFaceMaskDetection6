@@ -1,3 +1,5 @@
+---
+
 **🌸✨ AI Face Mask Detection System ✨🌸**
 
 AI-Powered • Real-Time • University Group Project
@@ -10,12 +12,16 @@ The Face Mask Detection System is an AI-based computer vision project designed t
 This system uses Deep Learning (CNN) for image classification and OpenCV for real-time face detection.
 The project is developed as part of a University academic group assignment to demonstrate practical applications of Artificial Intelligence and Machine Learning.
 
+---
+
 **🎯 Objectives**
 
     • To apply Convolutional Neural Networks (CNN) for image classification
     • To build a real-time mask detection system
     • To integrate AI with a user-friendly GUI
     • To gain hands-on experience with GitHub collaboration
+
+---
 
 **🌈 Key Features**
 
@@ -26,6 +32,8 @@ The project is developed as part of a University academic group assignment to de
     ✔ Simple & clean GUI
     ✔ Lightweight and efficient
 
+---
+
 🧠 Tech Stack
 
     🐍 Python
@@ -33,6 +41,8 @@ The project is developed as part of a University academic group assignment to de
     📷 OpenCV
     🎨 Tkinter
     📊 NumPy, Scikit-learn
+
+---
 
 **📁 Project Structure**
 
@@ -53,6 +63,8 @@ The project is developed as part of a University academic group assignment to de
     ├── gui.py
     └── venv/
 
+---
+
 **⚙️ How the System Works**
 
 1. Images are collected and labeled (Mask / No Mask)
@@ -62,16 +74,23 @@ The project is developed as part of a University academic group assignment to de
 5. Faces are detected using OpenCV
 6. The trained model predicts mask status in real time
 
+---
+
 **▶️ How to Run the Project**
 
-     • **Activate virtual environment**
-       venv\Scripts\activate
-     • **Preprocess dataset**
-       python scripts/preprocess_data.py
-     • **Train the model**
-       python scripts/train_model.py
-     • **Run GUI & webcam detection**
-       python gui.py
+**Activate virtual environment**
+venv\Scripts\activate
+
+**Preprocess dataset**
+python scripts/preprocess_data.py
+
+**Train the model**
+python scripts/train_model.py
+
+**Run GUI & webcam detection**
+python gui.py
+
+---
 
 **👥 Group Members & Contributions**
 
@@ -87,6 +106,8 @@ The project is developed as part of a University academic group assignment to de
    💗 Member 4 – GUI & Webcam
     GUI development, webcam integration, and real-time result display.
 
+---
+
 **🎓📚 Academic Purpose**
 
       This project was developed for educational purposes to demonstrate:
@@ -94,9 +115,11 @@ The project is developed as part of a University academic group assignment to de
       📌 Real-time Computer Vision
       📌 Practical AI implementation
 
-🌼✨ This project reflects teamwork, practical learning, and real-world AI application.
+---
 
-      Thank you for reviewing our work! 🌸🌼
+🌼✨ This project reflects teamwork, practical learning, and real-world AI application.
+Thank you for reviewing our work! 🌸🌼
+
 
 
 
