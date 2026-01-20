@@ -17,39 +17,39 @@ The project is developed as part of a University academic group assignment to de
 
 🌈 Key Features
 
-✔ Real-time webcam detection
-✔ Mask 😷 / No Mask ❌ classification
-✔ Colored bounding boxes
-✔ Confidence score display
-✔ Simple & clean GUI
-✔ Lightweight and efficient
+    ✔ Real-time webcam detection
+    ✔ Mask 😷 / No Mask ❌ classification
+    ✔ Colored bounding boxes
+    ✔ Confidence score display
+    ✔ Simple & clean GUI
+    ✔ Lightweight and efficient
 
 🧠 Tech Stack
 
-🐍 Python
-🧠 TensorFlow / Keras
-📷 OpenCV
-🎨 Tkinter
-📊 NumPy, Scikit-learn
+    🐍 Python
+    🧠 TensorFlow / Keras
+    📷 OpenCV
+    🎨 Tkinter
+    📊 NumPy, Scikit-learn
 
 📁 Project Structure
 
-FaceMaskDetection/
-│
-├── dataset/
-│   ├── with_mask/        # Mask images
-│   └── without_mask/     # No mask images
-│
-├── model/
-│   └── mask_detector_model.h5
-│
-├── scripts/
-│   ├── preprocess_data.py
-│   ├── train_model.py
-│   └── detect_webcam.py
-│
-├── gui.py
-└── venv/
+    FaceMaskDetection/
+    │
+    ├── dataset/
+    │   ├── with_mask/        # Mask images
+    │   └── without_mask/     # No mask images
+    │
+    ├── model/
+    │   └── mask_detector_model.h5
+    │
+    ├── scripts/
+    │   ├── preprocess_data.py
+    │   ├── train_model.py
+    │   └── detect_webcam.py
+    │
+    ├── gui.py
+    └── venv/
 
 ⚙️ How the System Works
 
@@ -73,22 +73,23 @@ python gui.py
 
 👥 Group Members & Contributions
 
-💗 Member 1 – Group Leader & GitHub
-Repository management, project integration, documentation, and final submission.
-💗 Member 2 – Dataset & Preprocessing
-Dataset collection, image preprocessing, labeling, and data validation.
-💗 Member 3 – Model Training
-CNN model design, training, testing, and performance optimization.
-💗 Member 4 – GUI & Webcam
-GUI development, webcam integration, and real-time result display.
+   💗 Member 1 – Group Leader & GitHub
+    Repository management, project integration, documentation, and final submission.
+   💗 Member 2 – Dataset & Preprocessing
+    Dataset collection, image preprocessing, labeling, and data validation.
+   💗 Member 3 – Model Training
+    CNN model design, training, testing, and performance optimization.
+   💗 Member 4 – GUI & Webcam
+    GUI development, webcam integration, and real-time result display.
 
 🎓📚 Academic Purpose
 
-This project was developed for educational purposes to demonstrate:
-📌 Deep Learning concepts
-📌 Real-time Computer Vision
-📌 Practical AI implementation
+      This project was developed for educational purposes to demonstrate:
+      📌 Deep Learning concepts
+      📌 Real-time Computer Vision
+      📌 Practical AI implementation
 
 🌼✨ This project reflects teamwork, practical learning, and real-world AI application.
 
-Thank you for reviewing our work! 🌸🌼
+      Thank you for reviewing our work! 🌸🌼
+
