@@ -1,4 +1,4 @@
-🌸✨ AI Face Mask Detection System ✨🌸
+#🌸✨ AI Face Mask Detection System ✨🌸
 
 AI-Powered • Real-Time • University Group Project
 
@@ -92,4 +92,5 @@ python gui.py
 🌼✨ This project reflects teamwork, practical learning, and real-world AI application.
 
       Thank you for reviewing our work! 🌸🌼
+
 
