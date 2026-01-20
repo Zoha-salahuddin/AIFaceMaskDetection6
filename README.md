@@ -2,6 +2,8 @@
 
 AI-Powered • Real-Time • University Group Project
 
+---
+
 **🌸 Project Overview**
 
 The Face Mask Detection System is an AI-based computer vision project designed to detect whether a person is wearing a face mask or not in real time using a webcam 📷.
@@ -62,14 +64,14 @@ The project is developed as part of a University academic group assignment to de
 
 **▶️ How to Run the Project**
 
-**Activate virtual environment**
-venv\Scripts\activate
-**Preprocess dataset**
-python scripts/preprocess_data.py
-**Train the model**
-python scripts/train_model.py
-**Run GUI & webcam detection**
-python gui.py
+     • **Activate virtual environment**
+       venv\Scripts\activate
+     • **Preprocess dataset**
+       python scripts/preprocess_data.py
+     • **Train the model**
+       python scripts/train_model.py
+     • **Run GUI & webcam detection**
+       python gui.py
 
 **👥 Group Members & Contributions**
 
@@ -95,6 +97,7 @@ python gui.py
 🌼✨ This project reflects teamwork, practical learning, and real-world AI application.
 
       Thank you for reviewing our work! 🌸🌼
+
 
 
 
