@@ -10,10 +10,10 @@ The project is developed as part of a University academic group assignment to de
 
 🎯 Objectives
 
-• To apply Convolutional Neural Networks (CNN) for image classification
-• To build a real-time mask detection system
-• To integrate AI with a user-friendly GUI
-• To gain hands-on experience with GitHub collaboration
+    • To apply Convolutional Neural Networks (CNN) for image classification
+    • To build a real-time mask detection system
+    • To integrate AI with a user-friendly GUI
+    • To gain hands-on experience with GitHub collaboration
 
 🌈 Key Features
 
@@ -90,4 +90,5 @@ This project was developed for educational purposes to demonstrate:
 📌 Practical AI implementation
 
 🌼✨ This project reflects teamwork, practical learning, and real-world AI application.
+
 Thank you for reviewing our work! 🌸🌼
